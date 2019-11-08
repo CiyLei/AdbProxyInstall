@@ -1,0 +1,10 @@
+D:\c#code\AdbProxyInstall\AdbProxyInstall\bin\Debug\AdbProxyInstall.exe.config
+D:\c#code\AdbProxyInstall\AdbProxyInstall\bin\Debug\AdbProxyInstall.exe
+D:\c#code\AdbProxyInstall\AdbProxyInstall\bin\Debug\AdbProxyInstall.pdb
+D:\c#code\AdbProxyInstall\AdbProxyInstall\obj\Debug\AdbProxyInstall.csprojAssemblyReference.cache
+D:\c#code\AdbProxyInstall\AdbProxyInstall\obj\Debug\AdbProxyInstall.Form1.resources
+D:\c#code\AdbProxyInstall\AdbProxyInstall\obj\Debug\AdbProxyInstall.Properties.Resources.resources
+D:\c#code\AdbProxyInstall\AdbProxyInstall\obj\Debug\AdbProxyInstall.csproj.GenerateResource.cache
+D:\c#code\AdbProxyInstall\AdbProxyInstall\obj\Debug\AdbProxyInstall.csproj.CoreCompileInputs.cache
+D:\c#code\AdbProxyInstall\AdbProxyInstall\obj\Debug\AdbProxyInstall.exe
+D:\c#code\AdbProxyInstall\AdbProxyInstall\obj\Debug\AdbProxyInstall.pdb
